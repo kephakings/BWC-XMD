@@ -8,7 +8,7 @@
 <up A simple WhatsApp User Bot Coded By 🅑r̸𝐢𝖌𝖍t̸_×͜× 👻</u>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/hk3vZ9W.jpeg"/>       
+<img src="https://files.catbox.moe/lbkbw1.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KINGS-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+🅑r̸𝐢𝖌𝖍t̸+_MD+TECHS;RELEASED+DATE+21%2F7%2F2025."                               alt="Typing SVG" /></a>
 </p> 
