@@ -87,7 +87,7 @@
 
 ## 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=Redmi-XMD +MAKE; STAR ⭐+AND+FORKS+BY+Redmi-XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 +MAKE; STAR ⭐+AND+FORKS+BY+𝐊𝐈𝐍𝐆𝐒-𝐌𝐃" alt="Typing SVG" /></a>
 
 
 
