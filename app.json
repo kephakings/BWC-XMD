@@ -1,5 +1,5 @@
 {
-  "name": "♻️𝙍𝙚𝙙𝙢𝙞-𝙓𝙈𝘿♻️",
+  "name": "♻️𝙆𝙄𝙉𝙂𝙎-𝙈𝘿♻️",
   "description": "This BOT was developed by 🅑r̸𝐢𝖌𝖍t̸_×͜×.",
   "keywords": [
     "bot",
@@ -49,7 +49,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "𝙍𝙚𝙙𝙢𝙞-𝙓𝙈𝘿",
+      "value": "𝙆𝙄𝙉𝙂𝙎-𝙈𝘿",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -80,7 +80,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "KINGS?"
+      "value": "KINGS"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
