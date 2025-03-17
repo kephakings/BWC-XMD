@@ -862,7 +862,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 if((conf.DP).toLowerCase() === 'yes') {     
 
                 let cmsg =`     
-                𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 KINGS MD  🤖
+               🚶𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 KINGS MD 🤖
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
 ❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : KINGS MD    
 ❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : KINGS BOT 
