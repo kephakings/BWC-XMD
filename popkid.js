@@ -82,7 +82,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Bumblebee-XMD', "safari", "1.0.0"],
+            browser: ['KINGS-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -167,7 +167,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tBumblebee XMD ONLINE");
+            console.log("\tKINGS MD ONLINE");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -541,7 +541,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/xhclintohn/Toxic-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Bumblebee-XMD',
+                pack: 'KINGS-MD',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -685,7 +685,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*Bumble XMD WELCOME MESSAGE*`;
+            let msg = `*KINGS MD WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
@@ -819,18 +819,18 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Toxic MD is connecting...");
+                console.log("ℹ️ KINGS MD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Bumblebee XMD Connected to WhatsApp! 🤖");
+                console.log("✅ KINGS MD Connected to WhatsApp! 🤖");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Bumblebee XMD is Online 🕸\n\n");
+                console.log("KINGS MD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Bumblebee-XMD Commands ...\n");
+                console.log("Loading KINGS-MD Commands ...\n");
                 fs.readdirSync(__dirname + "/commands").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
@@ -862,10 +862,10 @@ zk.ev.on('group-participants.update', async (group) => {
                 if((conf.DP).toLowerCase() === 'yes') {     
 
                 let cmsg =`     
-                𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 🤖
+                𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 KINGS MD  🤖
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : blacktappy    
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : 𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿
+❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : KINGS MD    
+❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : KINGS BOT 
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
