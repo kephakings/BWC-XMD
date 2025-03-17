@@ -240,7 +240,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
                 externalAdReply: {
                     title: "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-                    thumbnailUrl: "https://files.catbox.moe/w5xf3f.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/3iw9pb.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10',
                     mediaType: 1,
                     renderLargerThumbnail: true
