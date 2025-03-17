@@ -5,7 +5,7 @@ const pkg = require('@whiskeysockets/baileys');
 const { generateWAMessageFromContent } = pkg;
 
 // Rent Command
-zokou({ nomCom: "pair", reaction: "♻", categorie: "User" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "rent", reaction: "♻", categorie: "User" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
