@@ -235,11 +235,15 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
         await zk.sendMessage(dest, { 
             text: infoMsg + menuMsg,
             contextInfo: {
-                mentionedJid: [nomAuteurMessage],
-               showAdAttribution: true,
+                          forwardingScore: 999,
+            isForwarded: true,
+            forwardedNewsletterMessageInfo: {
+              newsletterJid: '120363295141350550@newsletter',
+              newsletterName: 'KINGS MD',
+              serverMessageId: 143},
                 externalAdReply: {
                     title: "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃",
-                    body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
+                    body: "Whatsapp is interesting now!!",
                     thumbnailUrl: "https://files.catbox.moe/3iw9pb.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10',
                     mediaType: 1,
