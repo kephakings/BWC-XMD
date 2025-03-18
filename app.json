@@ -17,6 +17,11 @@
       "value": ".",
       "required": true
     },
+        "PRESENCE": {
+      "description": "Enter 1 for always online 2 for always typing 3 for always recording ",
+      "value": "",
+      "required": false
+    },
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value": "yes",
