@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "🅑r̸𝐢𝖌𝖍t̸_×͜×", numero: "254759000340" },
-      { nom: "᚛🅑r̸𝐢𝖌𝖍t̸_×͜×᚜", numero: "254759000340" },
-      { nom: "Redmi-XMD", numero: "254759000349" },
+      { nom: "KINGSTECH", numero: "254743487575" },
+      { nom: "KINGS", numero: "254743487575" },
+      { nom: "DE KING", numero: "254743487575" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO Redmi-XMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO KINGS-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
