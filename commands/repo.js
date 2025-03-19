@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
      *𝐊𝐈𝐍𝐆𝐒TECH IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Kingstech254/KINGS-MD
+> https://github.com/Kephakings/KINGS-MD
 
 ⁠
 ╭───────────────────❒
