@@ -35,23 +35,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 IMPORTANT INFO* 
+     *𝐊𝐈𝐍𝐆𝐒TECH IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/Kingstech254/KINGS-MD
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *blacktappy*
-│❒⁠⁠⁠⁠ *DEV2* : *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃*
+│❒⁠⁠⁠⁠ *DEV1* : *KINGS*
+│❒⁠⁠⁠⁠ 
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Blacktappy Tech*
+     *KINGSTECH*
 
 ❒────────────────────❒`;
 
@@ -134,7 +132,7 @@ const date = moment().format('DD/MM/YYYY');
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
-⁠⁠⁠⁠╰───────────────────❒
+⁠⁠⁠⁠╰───────────────────
   `;
     
 let menuMsg = `
