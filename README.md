@@ -63,7 +63,7 @@
 
 
 
-## CONTACT 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 TECH
+## *CONTACT 𝐊𝐈𝐍𝐆𝐒TECH*
   
 <a href="https://wa.me/254759000340"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/JLVDDZLpcsk2byRMDWf0IR"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -89,11 +89,4 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 +MAKE; STAR ⭐+AND+FORKS+BY+𝐊𝐈𝐍𝐆𝐒-𝐌𝐃" alt="Typing SVG" /></a>
 
-
-
-## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
-
-
- <a href="https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
- 
 
