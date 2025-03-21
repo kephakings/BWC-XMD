@@ -91,7 +91,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
 ┌════════════════⊷
 ┊♲╭─────────────
-┊♲┊ *Bot name :* 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃
+┊♲┊ *Bot name :* BWC-XMD
 ┊♲┊ *User:*  ${nomAuteurMessage}  
 ┊♲┊ *Time :*  ${temps}
 ┊♲┊ *Date :* ${date} 
@@ -100,7 +100,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ╰═════════════════⊷`;
 
     let menuMsg =`
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃\n${readmore} `;
+> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 BWC-XMD\n${readmore} `;
 
     // Sort categories alphabetically and generate menu
     const sortedCategories = Object.keys(coms).sort();
@@ -124,7 +124,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃❄️`;
+> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 BWC-XMD❄️`;
 
     
     try {
@@ -134,9 +134,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
                 mentionedJid: [nomAuteurMessage],
                showAdAttribution: true,
                 externalAdReply: {
-                    title: "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃",
+                    title: "BWC-XMD",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-                    thumbnailUrl: "https://files.catbox.moe/w5xf3f.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/6am24p.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10',
                     mediaType: 1,
                     renderLargerThumbnail: true
@@ -205,7 +205,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
 ╰═════════════════⊷`;
 
     let menuMsg =`
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃\n${readmore} `;
+> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 BWC-XMD\n${readmore} `;
 
     // Sort categories alphabetically and generate menu
     const sortedCategories = Object.keys(coms).sort();
@@ -229,7 +229,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃🧊`;
+> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 BWC-XMD🧊`;
 
    try {
         await zk.sendMessage(dest, { 
@@ -239,12 +239,12 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363295141350550@newsletter',
-              newsletterName: 'KINGS MD',
+              newsletterName: 'BWC-XMD',
               serverMessageId: 143},
                 externalAdReply: {
-                    title: "𝐊𝐈𝐍𝐆𝐒-𝐌𝐃",
+                    title: "BWC-XMD",
                     body: "Whatsapp is interesting now!!",
-                    thumbnailUrl: "https://files.catbox.moe/3iw9pb.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/6am24p.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10',
                     mediaType: 1,
                     renderLargerThumbnail: true
