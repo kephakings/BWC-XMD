@@ -37,7 +37,7 @@ BWC-XMD is a powerful Multi-Device WhatsApp bot developed by **Kepha Kings**. It
 ### 🛠 **SETUP INSTRUCTIONS**
 
 #### 📌 **GET SESSION ID**
-<a href="https://bwc-xmd-pair-codes.onrender.com/pair">
+<a href="https://bwc-xmd-scanner.onrender.com">
   <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-green?style=for-the-badge&logo=nike" width="230" height="38.45"/>
 </a>
 
