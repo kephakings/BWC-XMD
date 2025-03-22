@@ -2,6 +2,7 @@
 
 
 
+
 const fs = require('fs-extra');
 const { Sequelize } = require('sequelize');
 if (fs.existsSync('set.env'))
@@ -13,7 +14,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || '',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
+    OWNER_NAME: process.env.OWNER_NAME || "254710772666",
     NUMERO_OWNER : process.env.NUMERO_OWNER || " Ibrahim Adams",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
