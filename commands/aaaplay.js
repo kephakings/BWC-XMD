@@ -52,7 +52,7 @@ zokou(
       });
 
       // 🎧 Fetch audio from API
-      const api = "https://api.bwmxmd.online/api/download/ytmp3?apikey=ibraah-help&url=" + encodeURIComponent(videoUrl);
+      const api = "https://api.bwmxmd.online/api/download/ytmp3?apikey=cracker12&url=" + encodeURIComponent(videoUrl);
       const response = await axios.get(api);
       const downloadData = response.data;
 
@@ -125,7 +125,7 @@ zokou(
       });
 
       // 🎧 Fetch audio from API
-      const api = "https://api.bwmxmd.online/api/download/ytmp3?apikey=ibraah-help&url=" + encodeURIComponent(videoUrl);
+      const api = "https://api.bwmxmd.online/api/download/ytmp3?apikey=cracker12p&url=" + encodeURIComponent(videoUrl);
       const response = await axios.get(api);
       const downloadData = response.data;
 
@@ -198,7 +198,7 @@ zokou(
       });
 
       // 🎬 Fetch video from API
-      const api = "https://api.bwmxmd.online/api/download/ytmp4?apikey=ibraah-help&url=" + encodeURIComponent(videoUrl);
+      const api = "https://api.bwmxmd.online/api/download/ytmp4?apikey=cracker12&url=" + encodeURIComponent(videoUrl);
       const response = await axios.get(api);
       const downloadData = response.data;
 
