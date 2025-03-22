@@ -24,7 +24,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `💦 Message from: ${contactName}\n🔥𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 Alive🔥`, // Your contact in WhatsApp status format
+            title: `💦 Message from: ${contactName}\n🔥BWC-XMD Alive🔥`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb I'm as active as bacteria 🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
@@ -71,7 +71,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `🌟 Message from: ${contactName}\n🔥 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃  is alive 🔥`, // Your contact in WhatsApp status format
+            title: `🌟 Message from: ${contactName}\n🔥 BWC-XMD  is alive 🔥`, // Your contact in WhatsApp status format
             body: "Yoh😂don't disturb I'm as active as bacteria🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
