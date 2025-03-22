@@ -1,3 +1,4 @@
+
 const { zokou } = require('../framework/zokou');
 const traduire = require("../framework/traduction");
 const { default: axios } = require('axios');
@@ -5,7 +6,7 @@ const pkg = require('@whiskeysockets/baileys');
 const { generateWAMessageFromContent } = pkg;
 
 // Rent Command
-zokou({ nomCom: "pair", reaction: "♻", categorie: "User" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "pair", reaction: "♻", categorie: "Bwc" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
