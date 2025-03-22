@@ -34,7 +34,7 @@ zokou(
 
       // 📌 Send fast response with full thumbnail
       await zk.sendMessage(dest, {
-        text: "BWM XMD DOWNLOADER" +  
+        text: "BWC-XMD DOWNLOADER" +  
               " Title: " + videoTitle +  
               " Duration: " + videoDuration +  
               " Views: " + videoViews,  
@@ -107,7 +107,7 @@ zokou(
 
       // 📌 Send fast response with full thumbnail
       await zk.sendMessage(dest, {
-        text: "BWM XMD DOWNLOADER" +  
+        text: "BWC-XMD DOWNLOADER" +  
               " Title: " + videoTitle +  
               " Duration: " + videoDuration +  
               " Views: " + videoViews,  
@@ -180,7 +180,7 @@ zokou(
 
       // 📌 Send fast response with full thumbnail
       await zk.sendMessage(dest, {
-        text: "BWM XMD DOWNLOADER" +  
+        text: "BWC-XMD DOWNLOADER" +  
               " Title: " + videoTitle +  
               " Duration: " + videoDuration +  
               " Views: " + videoViews,  
