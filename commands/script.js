@@ -35,23 +35,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 IMPORTANT INFO* 
+     *BWC-XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Kingstech254/KINGS-MD
-
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
+> https://github.com/Kephakings/BWC-XMD
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *blacktappy*
-│❒⁠⁠⁠⁠ *DEV2* : *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃*
+│❒⁠⁠⁠⁠ *KINGS* : *BWC-XMD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Blacktappy Tech*
+     *KINGSTECH*
 
 ❒────────────────────❒`;
 
