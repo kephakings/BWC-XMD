@@ -5,7 +5,7 @@ const pkg = require('@whiskeysockets/baileys');
 const { generateWAMessageFromContent } = pkg;
 
 // Rent Command
-zokou({ nomCom: "rent", reaction: "♻", categorie: "User" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "pair", reaction: "♻", categorie: "User" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
@@ -13,9 +13,9 @@ zokou({ nomCom: "rent", reaction: "♻", categorie: "User" }, async (dest, zk, c
       return repondre('Example Usage: .rent 255xxxxxxxx.');
     }
 
-    await repondre('king md is generating your code.....');
+    await repondre('bwcxmd is generating your code.....');
     const text = encodeURIComponent(arg.join(' '));
-    const apiUrl = `https://kings-md-pair-codes-1-y7kb.onrender.com/pair/code?number=${text}`;
+    const apiUrl = `https://bwc-xmd-scanner.onrender.com/code?number=${text}`;
 
     const response = await axios.get(apiUrl);
     const result = response.data;
@@ -37,7 +37,7 @@ zokou({ nomCom: "rent", reaction: "♻", categorie: "User" }, async (dest, zk, c
       // Second message with additional information
       const captionMessage = generateWAMessageFromContent(dest, {
         extendedTextMessage: {
-          text: "*Copy the above code and link it to your WhatsApp, KING-BOT*"
+          text: "*Copy the above code and link it to your WhatsApp, BWM-XMD*"
         }
       }, {});
 
@@ -60,11 +60,11 @@ zokou({ nomCom: "scan", reaction: "🔍", categorie: "User" }, async (dest, zk, 
 
   try {
     const instructions = `
-*📖 HOW TO GET KING-BOT SESSION:*
+*📖 HOW TO GET BWC-XMD SESSION:*
 
 1️⃣ **Open the link below**
 
-> https://kings-md-pair-codes-1-y7kb.onrender.com
+> https://bwc-xmd-scanner.onrender.com
 
 2️⃣ **Enter Your WhatsApp Number**  
 
