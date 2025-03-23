@@ -59,7 +59,11 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ BWC-XMD
+     ┃▓ *BWC-XMD*  
+     *ENJOY USING BWC-XMD*
+     Developed by *KEPHAKINGS*
+     
+     
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
