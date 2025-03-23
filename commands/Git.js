@@ -40,23 +40,18 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/Kingstech254 
-
-*WHATSAPP GROUP*
-> https://chat.whatsapp.com/JLVDDZLpcsk2byRMDWf0IR
+> https://github.com/Kephakings/BWC-XMD
 
 *FOR DEVELOPER T.ME*
-> https://t.me/blacktappy5
+> https://t.me/*KINGSTECH*
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
->https://github.com/Kingstech254/KINGS-MD
+>https://github.com/Kephakings/BWC-XMD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *🅑r̸𝐢𝖌𝖍t̸_×͜×*
+┃▓▒ *DEV* : *KINGSTECH*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +59,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃
+     ┃▓ BWC-XMD
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
