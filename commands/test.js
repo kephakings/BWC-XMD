@@ -3,13 +3,13 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 const { conf } = require('../set')
 zokou(
-    { nomCom: "Black-Tappy", reaction: "👊", nomFichier: __filename },
+    { nomCom: "Kephakings", reaction: "👊", nomFichier: __filename },
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello I'm *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃* \n\n " +
+            "Hello I'm *BWC-XMD* \n\n " +
             "I'm a Whatsapp Bot Multi-Device";
-        let d = " Made By *𝐊𝐈𝐍𝐆𝐒-𝐌𝐃*";
+        let d = " Made By *𝐊INGSTECH*";
         let varmess = z + d;
         var img = "https://files.catbox.moe/kjt43f.jpg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -50,9 +50,9 @@ const sentMsg4  = await zk.sendMessage(
 // send a contact!
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN𝙆𝙄𝙉𝙂𝙎-𝙈𝘿\n' // full name
+            + 'FNBWC-XMD\n' // full name
             + 'ORG:Ashoka Uni;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=254759000340:+254731316204\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=254743487575:+254743487575\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 const sentMsg5  = await zk.sendMessage(
     dest,
