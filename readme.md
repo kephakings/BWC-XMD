@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 **ABOUT BWC-XMD**
-BWC-XMD is a powerful Multi-Device WhatsApp bot developed by **Kepha Kings**. It comes with advanced features, automation, and easy deployment options.
+BWC-XMD is a powerful Multi-Device WhatsApp bot developed by **KEPHAKINGS**. It comes with advanced features, automation, and easy deployment options.
 
 ---
 
