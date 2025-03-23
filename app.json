@@ -1,7 +1,7 @@
 
 {
   "name":"BWC-XMD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "description":"Best whatsapp bot developed by Kepha Kings",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/6am24p.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -35,7 +35,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto like status",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 	  "AUTO_REACT":
@@ -102,7 +102,7 @@
       
     },
     "OWNER_NAME":
-    {
+    { "KINGS"
     
     "desc": "Your Name",
     "required": false,
