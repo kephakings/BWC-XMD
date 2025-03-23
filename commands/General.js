@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "KINGSTECH", numero: "254743487575" },
-      { nom: "KINGS", numero: "254743487575" },
-      { nom: "DE KING", numero: "254743487575" },
+      { nom: "*KINGSTECH*", numero: "254743487575" },
+      { nom: "*KINGS*", numero: "254743487575" },
+      { nom: "*KEPHAKINGS*", numero: "254743487575" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO KINGS-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "*WELCOME TO BWC-XMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW*:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -96,6 +96,6 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("THANK YOU FOR CHOOSING 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@BlackTappy] \n\n\n*Created By Mr 🅑r̸𝐢𝖌𝖍t̸_×͜×") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING ,*BWC-XMD*,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
