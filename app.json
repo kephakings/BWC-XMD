@@ -1,7 +1,7 @@
 
 {
   "name":"BWC-XMD",
-  "description":"Best whatsapp bot developed by *KEPHAKINGS*",
+  "description":"Best whatsapp bot developed by KEPHA KINGS",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/6am24p.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -35,7 +35,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto like status",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 	  "AUTO_REACT":
@@ -106,14 +106,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "*KINGS*"
+    "value": "KINGS"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": ""
+    "value": "254743487575"
   },
     "WARN_COUNT":
   {
@@ -134,7 +134,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "yes",
+    "value": "no",
         "required": false
   }
   },
