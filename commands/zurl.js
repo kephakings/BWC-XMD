@@ -88,13 +88,13 @@ zokou({ nomCom: "tourl", categorie: "General", reaction: "👨🏿‍💻" }, as
         // Respond with the URL based on media type
         switch (mediaType) {
             case 'image':
-                repondre(`BUMBLEBEE-XMD url: ${catboxUrl}`);
+                repondre(`BWC-XMD url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`BUMBLEBEE-XMD url: ${catboxUrl}`);
+                repondre(`BWC-XMD url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`BUMBLEBEE-XMD url: ${catboxUrl}`);
+                repondre(`BWC-XMD url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
