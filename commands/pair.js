@@ -38,7 +38,7 @@ zokou({ nomCom: "pair", reaction: "♻", categorie: "Bwc" }, async (dest, zk, co
       // Second message with additional information
       const captionMessage = generateWAMessageFromContent(dest, {
         extendedTextMessage: {
-          text: "*Copy the above code and link it to your WhatsApp, BWM-XMD*"
+          text: "*Copy the above code and link it to your WhatsApp, BWC-XMD*"
         }
       }, {});
 
@@ -73,7 +73,7 @@ zokou({ nomCom: "scan", reaction: "🔍", categorie: "User" }, async (dest, zk, 
 
 3️⃣ **Receive a Code**  
 
-   👉 KINGSTECH will send a short code, Copy it to your keyboard.  
+   👉 *KINGSTECH* will send a short code, Copy it to your keyboard.  
 
 4️⃣ **Check WhatsApp Notification**  
 
