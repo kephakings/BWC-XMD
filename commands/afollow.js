@@ -20,8 +20,8 @@ zokou({
         'sourceUrl': "hhttps://chat.whatsapp.com/JLVDDZLpcsk2byRMDWf0IR",
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
-        'title': "Join Our WhatsApp Group",
-        'body': "Click to join the official HACHERS HOOD WhatsApp group!"
+     
+        
       }
     }
   });
@@ -49,7 +49,7 @@ zokou({
   console.log("Command executed: wachannel");
 });
 zokou({
-  'nomCom': 'Redmi-XMD',
+  'nomCom': 'KEPHA KINGS',
   'reaction': '👀',
   'categorie': "Support-Owner",
   'nomFichier': __filename
@@ -63,7 +63,7 @@ zokou({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
         'title': "Join Our Developer Place",
-        'body': "Click to join the official Redmi-XMD Owner Inbox!"
+      
       }
     }
   });
@@ -84,7 +84,7 @@ zokou({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
         'title': "Follow Facebook Page 📄",
-        'body': "Click to join the official HACHERS HOOD Facebook Page!"
+        
       }
     }
   });
@@ -104,8 +104,7 @@ zokou({
         'sourceUrl': 'https://www.instagram.com/bright_leizer_?igsh=Y2JmcnE1ajNjZXM=',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
-        'title': "Follow Instagram Page 📄",
-        'body': "Click to join the official HACHERS HOOD Instagram Page!"
+        'title': "Follow Instagram Page 📄
       }
     }
   });
@@ -182,14 +181,14 @@ zokou({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Subscribe the OFFICIAL *Redmi-XMD* YouTube Channel",
+    'text': "Hello 👋\n\nClick on the photo below to Subscribe the OFFICIAL *kingstech* YouTube Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.youtube.com/@BlackTappy',
+        'sourceUrl': 'https://www.youtube.com/kings',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
         'title': "Follow YouTube Channel📄",
-        'body': "Click to Subscribe the official Redmi-XMD YouTube Channel!"
+        'body': "Click to Subscribe the official Kingstech YouTube Channel!"
       }
     }
   });
