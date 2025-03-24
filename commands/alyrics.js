@@ -42,7 +42,7 @@ zokou({
 
         // Format the message to send to the user
         const formattedMessage = `
-*𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 PLANET LYRICS FINDER*
+*BWC-XMD PLANET LYRICS FINDER*
 *Title:* ${title}
 *Artist:* ${artist}
 
