@@ -14,9 +14,9 @@ zokou({ nomCom: "pair", reaction: "♻", categorie: "Bwc" }, async (dest, zk, co
       return repondre('Example Usage: .rent 255xxxxxxxx.');
     }
 
-    await repondre('bwcxmd is generating your code.....');
+    await repondre('BWC-XMD is generating your code.....');
     const text = encodeURIComponent(arg.join(' '));
-    const apiUrl = `https://bwc-xmd-scanner.onrender.com/code?number=${text}`;
+    const apiUrl = `https://BWC-XMD-scanner.onrender.com/code?number=${text}`;
 
     const response = await axios.get(apiUrl);
     const result = response.data;
@@ -65,15 +65,15 @@ zokou({ nomCom: "scan", reaction: "🔍", categorie: "User" }, async (dest, zk, 
 
 1️⃣ **Open the link below**
 
-> https://bwc-xmd-scanner.onrender.com
+> https://BWC-XMD-scanner.onrender.com
 
 2️⃣ **Enter Your WhatsApp Number**  
 
-   👉 Type your WhatsApp number without your country code (e.g., 254xxxxxxxx) and tap **Submit**.  
+   👉 Type your WhatsApp number without your country code (e.g., 2547434875xx) and tap **Submit**.  
 
 3️⃣ **Receive a Code**  
 
-   👉 We will send a short code, Copy it to your keyboard.  
+   👉 KINGSTECH will send a short code, Copy it to your keyboard.  
 
 4️⃣ **Check WhatsApp Notification**  
 
