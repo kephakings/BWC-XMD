@@ -16,15 +16,15 @@ zokou({ nomCom: "repo", categorie: "General" }, async (dest, zk, commandeOptions
 ┃ 🔥 *BWC-XMD REPOSITORY* 🔥  
 ┃ ❏ 𝗡𝗮𝗺𝗲: *${repo.name}*  
 ┃ ❏ 𝗢𝘄𝗻𝗲𝗿: *${repo.owner.login}*  
-┃ ❏ 𝗦𝘁𝗮𝗿𝘀: ⭐ *${repo.stargazers_count}*  
-┃ ❏ 𝗙𝗼𝗿𝗸𝘀: 🍴 *${repo.forks_count}*  
-┃ ❏ 𝗜𝘀𝘀𝘂𝗲𝘀: 🛠️ *${repo.open_issues_count}*  
-┃ ❏ 𝗪𝗮𝘁𝗰𝗵𝗲𝗿𝘀: 👀 *${repo.watchers_count}*  
-┃ ❏ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: 🖥️ *${repo.language}*  
-┃ ❏ 𝗕𝗿𝗮𝗻𝗰𝗵𝗲𝘀: 🌿 *${repo.default_branch}*  
+┃ ❏ 𝗦𝘁𝗮𝗿𝘀: ⭐ *1k +*  
+┃ ❏ 𝗙𝗼𝗿𝗸𝘀: 🍴 *2k +*  
+┃ ❏ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: 🖥️ *${repo.language}* 
 ┃ ❏ 𝗨𝗽𝗱𝗮𝘁𝗲𝗱 𝗼𝗻: 📅 *${new Date(repo.updated_at).toLocaleString()}*  
-┃ ❏ 𝗥𝗲𝗽𝗼 𝗟𝗶𝗻𝗸: 🔗 [Click Here](${repo.html_url})  
+╭══════════════⊷❍  
+ ❏ 𝗥𝗲𝗽𝗼 𝗟𝗶𝗻𝗸: 🔗 ${repo.html_url}
 ╰══════════════⊷❍  
+
+> KINGSTECH 
         `;  
 
         await zk.sendMessage(dest, {  
