@@ -16,8 +16,8 @@ zokou({ nomCom: "repo", categorie: "General" }, async (dest, zk, commandeOptions
 ┃ 🔥 *BWC-XMD REPOSITORY* 🔥  
 ┃ ❏ 𝗡𝗮𝗺𝗲: *${repo.name}*  
 ┃ ❏ 𝗢𝘄𝗻𝗲𝗿: *${repo.owner.login}*  
-┃ ❏ 𝗦𝘁𝗮𝗿𝘀: ⭐ *1k +*  
-┃ ❏ 𝗙𝗼𝗿𝗸𝘀: 🍴 *2k +*  
+┃ ❏ 𝗦𝘁𝗮𝗿𝘀: ⭐ *1527 *  
+┃ ❏ 𝗙𝗼𝗿𝗸𝘀: 🍴 *798 +*  
 ┃ ❏ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: 🖥️ *${repo.language}* 
 ┃ ❏ 𝗨𝗽𝗱𝗮𝘁𝗲𝗱 𝗼𝗻: 📅 *${new Date(repo.updated_at).toLocaleString()}*  
 ╭══════════════⊷❍  
