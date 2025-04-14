@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the JSON file storing cron data
-const filePath = path.join(__dirname, '../database/cron.json');
+const filePath = path.join(__dirname, '../xmd/cron.json');
 
 // Load data from JSON file
 function loadCronData() {
