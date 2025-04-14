@@ -1,2 +1,2 @@
 
-web: node bwcxmd.js
+worker: node bwcxmd.js
