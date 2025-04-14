@@ -103,26 +103,25 @@
 
 
 {
-  "name": "BWC-MD",
+  "name": "bwcxmd",
   "version": "2.0.0",
-  "description": "",
+  "description": "WhatsApp Multi Device Bot",
   "main": "bwcxmd.js",
   "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node bwcxmd.js", 
-    "king": "pm2 start bwcxmd.js --attach --max-memory-restart 490M",
-    "c": "tsc"
+    "start": "node bwcxmd.js"
   },
   "keywords": [
-    "bot",
-    "Baileys",
-    "Bwc-Md",
-    "whatsapp",
+    "termux",
+    "whatsapp-openai",
     "whatsapp-bot",
-    "Ibrahim-adams"
+    "whatsapp-baileys",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
   ],
-  "author": "Ibrahim",
+  "author": "bwcxmd",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
