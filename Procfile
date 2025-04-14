@@ -1,0 +1,2 @@
+
+web: node bwcxmd.js
