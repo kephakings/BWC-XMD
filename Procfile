@@ -1,2 +1,2 @@
 
-worker: node bwcxmd.js
+web: node bwcxmd.js && node bwcxmd.js
