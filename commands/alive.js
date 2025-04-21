@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou(
-  { nomCom: "alive", reaction: "👊", nomFichier: __filename },
+  { nomCom: "alive", reaction: "🧡", nomFichier: __filename },
   async (dest, zk, commandeOptions) => {
     console.log("Alive command triggered!");
 
@@ -24,7 +24,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `💦 Message from: ${contactName}\n🔥BWC-XMD Alive🔥`, // Your contact in WhatsApp status format
+            title: `💦 Message from: ${contactName}\n *BWC-XMD Alive*`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb I'm as active as bacteria 🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
@@ -71,7 +71,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `🌟 Message from: ${contactName}\n🔥 BWC-XMD  is alive 🔥`, // Your contact in WhatsApp status format
+            title: `🌟 Message from: ${contactName}\n *BWC-XMD  is alive* `, // Your contact in WhatsApp status format
             body: "Yoh😂don't disturb I'm as active as bacteria🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
@@ -100,7 +100,7 @@ const BaseUrl = process.env.GITHUB_GIT;
 const adamsapikey = process.env.BOT_OWNER;
 
 zokou(
-  { nomCom: "alive", reaction: "👊", nomFichier: __filename },
+  { nomCom: "alive", reaction: "❤️", nomFichier: __filename },
   async (dest, zk, commandeOptions) => {
     console.log("Alive command triggered!");
 
