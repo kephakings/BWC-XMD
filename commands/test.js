@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 const { conf } = require('../set')
 zokou(
-    { nomCom: "Kephakings", reaction: "👊", nomFichier: __filename },
+    { nomCom: "Kephakings", reaction: "❤️", nomFichier: __filename },
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
@@ -26,7 +26,7 @@ console.log("mon test");
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
    let z ='Salut je m\'appelle *Zokou* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Djalega++*'
+      let d =' developpé par *KINGSTECH++*'
       let varmess=z+d
       var img='https://telegra.ph/file/626e7105422c8908f723d.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
@@ -34,7 +34,7 @@ await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 
 
 zokou(
-      { nomCom: "hello", reaction: "😊"},
+      { nomCom: "hello", reaction: "💓"},
   async (dest,zk,commandOptions) => {
     const { ms } = commandOptions;
 const sentMsg1  = await zk.sendMessage(dest, { text: 'Oh! Hi There' })
@@ -58,7 +58,7 @@ const sentMsg5  = await zk.sendMessage(
     dest,
     { 
         contacts: { 
-            displayName: 'Jeff', 
+            displayName: 'Kings', 
             contacts: [{ vcard }] 
         }
     }
@@ -83,7 +83,7 @@ const sentMsg6 = await zk.sendMessage(dest, buttonMessage)
 //send a template message!
 const templateButtons = [
     {index: 1, urlButton: {displayText: '⭐ Star Baileys on GitHub!', url: 'https://github.com/adiwajshing/Baileys'}},
-    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: '254759000340'}},
+    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: '254743487575'}},
     {index: 3, quickReplyButton: {displayText: 'This is a reply, just like normal buttons!', id: 'id-like-buttons-message'}},
 ]
 
@@ -108,7 +108,7 @@ const sections = [
 	title: "Section 2",
 	rows: [
 	    {title: "Option 3", rowId: "option3"},
-	    {title: "Option 4", rowId: "option4", description: "This is a description 𝐊𝐈𝐍𝐆𝐒-𝐌𝐃"}
+	    {title: "Option 4", rowId: "option4", description: "This is a description BWC-XMD"}
 	]
     },
 ]
