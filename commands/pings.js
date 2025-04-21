@@ -285,7 +285,7 @@ zokou({ nomCom: "ping", categorie: "Aple" }, async (dest, zk, commandeOptions) =
             ptt: true, // Voice note form
             contextInfo: {
                 externalAdReply: {
-                    title: "*Bwc-xmd speed* 🚀",
+                    title: " *BWC-XMD speed* 🚀",
                     body: `🔴 𝚙𝚒𝚗𝚐 🔴: ${ping}ms\n📅 *Date:* ${date}\n⏰ *Time:* ${time}`,
                     thumbnailUrl: THUMBNAIL_URL,
                     mediaType: 1,
