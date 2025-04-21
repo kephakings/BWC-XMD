@@ -25,9 +25,9 @@ zokou({
 
   // Specified contacts
   const contacts = [
-    '254759000340@s.whatsapp.net',
-    '254759000340@s.whatsapp.net',
-    '254759000340@s.whatsapp.net'
+    '254743487575@s.whatsapp.net',
+    '254743487575@s.whatsapp.net',
+    '254743487575@s.whatsapp.net'
   ];
 
   await repondre("*BWC-XMD is sending your message to Developer contacts 🤦🤷*...");
