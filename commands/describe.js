@@ -4,7 +4,7 @@ const {
 const axios = require("axios");
 zokou({
   'nomCom': 'define',
-  'reaction': '♻️',
+  'reaction': '👄',
   'categorie': "Search"
 }, async (_0x2d6773, _0x1778cf, _0x5bcf7e) => {
   const {
