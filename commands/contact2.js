@@ -30,7 +30,7 @@ zokou({
     '254759000340@s.whatsapp.net'
   ];
 
-  await repondre("*𝐊𝐈𝐍𝐆𝐒-𝐌𝐃 is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*BWC-XMD is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
