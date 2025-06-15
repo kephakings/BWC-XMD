@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+juuconst { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
@@ -55,9 +55,9 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "*KINGSTECH*", numero: "254743487575" },
-      { nom: "*KINGS*", numero: "254743487575" },
-      { nom: "*KEPHAKINGS*", numero: "254743487575" },
+      { nom: "*KINGSTECH*", numero: "254718858563" },
+      { nom: "*KINGS*", numero: "254718858563" },
+      { nom: "*KEPHAKINGS*", numero: "254718858563" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
