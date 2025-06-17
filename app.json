@@ -113,7 +113,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254718858563,254743487575"
+    "value": "254718858563"
   },
     "WARN_COUNT":
   {
