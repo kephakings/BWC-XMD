@@ -69,7 +69,7 @@ zokou({ nomCom: "scan", reaction: "🔍", categorie: "User" }, async (dest, zk, 
 
 2️⃣ **Enter Your WhatsApp Number**  
 
-   👉 Type your WhatsApp number without your country code (e.g., 254718858563) and tap **Submit**.  
+   👉 Type your WhatsApp number without your country code (e.g., 254718858563) and tap **CREATE**.  
 
 3️⃣ **Receive a Code**  
 
